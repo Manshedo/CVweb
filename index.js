@@ -352,7 +352,7 @@
                      <div class="tech-item"><img src="img/icons/postmanicon.png" alt="Postman"> Postman</div>
                      <div class="tech-item"><img src="img/icons/iiscon.png" alt="ISS"> IIS</div>
                      <div class="tech-item"><img src="img/icons/giticon.png" alt="Git"> Git/GitHub</div>
-                     <div class="tech-item"><img src="img/icons/gitHubicon.png" alt="GitHub"> GitHub</div>
+                     <div class="tech-item"><img src="img/icons/githubicon.png" alt="GitHub"> GitHub</div>
                      <div class="tech-item"><img src="img/icons/tomcaticon.png" alt="Tomcat"> Tomcat</div>
                      <div class="tech-item"><img src="img/icons/xaampicon.png" alt="Xaamp"> Xaamp</div>
                      <div class="tech-item"><img src="img/icons/laragonicon.jpeg" alt="Laragon"> Laragon</div>
