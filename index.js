@@ -354,7 +354,6 @@
                      <div class="tech-item"><img src="img/icons/giticon.png" alt="Git"> Git/GitHub</div>
                      <div class="tech-item"><img src="img/icons/githubicon.png" alt="GitHub"> GitHub</div>
                      <div class="tech-item"><img src="img/icons/tomcaticon.png" alt="Tomcat"> Tomcat</div>
-                     <div class="tech-item"><img src="img/icons/xaampicon.png" alt="Xaamp"> Xaamp</div>
                      <div class="tech-item"><img src="img/icons/laragonicon.jpeg" alt="Laragon"> Laragon</div>
                      <div class="tech-item"><img src="img/icons/vsicon.png" alt="Visual Studio"> Visual Studio</div>
                      <div class="tech-item"><img src="img/icons/eclipseicon.jpeg" alt="Eclipse"> Eclipse</div>
@@ -362,7 +361,6 @@
                      <div class="tech-item"><img src="img/icons/vultricon.jpeg" alt="Vultr"> Vultr</div>
                      <div class="tech-item"><img src="img/icons/wpicon.png" alt="WordPress"> WordPress</div>
                      <div class="tech-item"><img src="img/icons/figmaicon.png" alt="Figma"> Figma</div>
-                     <div class="tech-item"><img src="img/icons/vboxicon.jpeg" alt="Virtual Box"> Virtual Box</div>
                  </div>
              </div>
              
